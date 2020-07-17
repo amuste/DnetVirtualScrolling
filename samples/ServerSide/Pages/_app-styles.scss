@@ -1,0 +1,10 @@
+﻿/*@import "Feature1/_feature1.scss";*/
+
+.dnet-desktop-content {
+    padding: 0;
+    flex: 1 1 0;
+
+    &.destok-layout {
+        height: calc(100vh - 25px);
+    }
+}
